@@ -1,5 +1,5 @@
 {
-    "name":        "dustindoiron/session-encode-decode",
+    "name":        "leanlab-oy/session-encode-decode",
     "description": "Storageless PSR-7 Session support",
     "license":     "MIT",
     "authors": [
